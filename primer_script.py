@@ -3,7 +3,7 @@ import sys
 argumentos: List [str] =sys.argv 
 
 print (argumentos)
-
+#probando
 nombre = argumentos [1]
 email = argumentos [2]
 telefono = argumentos [3]
